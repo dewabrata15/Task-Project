@@ -1,0 +1,20 @@
+[
+    {
+        "chartName": "Sales Chart",
+        "description": "Data sales chart 1 year from May 2023 to May 2024",
+        "imageURL": "https://ibb.co.com/HXR9KbZ",
+        "userId": 1
+    },
+    {
+        "chartName": "Sales Chart",
+        "description": "Data sales chart 6 months from Dec 2023 to May 2024",
+        "imageURL": "https://ibb.co.com/j5ht66S",
+        "userId": 2
+    },
+    {
+        "chartName": "Sales Chart",
+        "description": "Data sales chart 3 months from Mar 2024 to May 2024",
+        "imageURL": "https://ibb.co.com/nCkqy98",
+        "userId": 3
+    }
+]
