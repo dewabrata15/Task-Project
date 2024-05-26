@@ -2,19 +2,19 @@
     {
         "chartName": "Sales Chart",
         "description": "Data sales chart 1 year from May 2023 to May 2024",
-        "imageURL": "https://ibb.co.com/HXR9KbZ",
+        "imageURL": "https://i.ibb.co.com/N7fGFJR/mydsomanager-graph-report-20240524093251-1.png",
         "userId": 1
     },
     {
         "chartName": "Sales Chart",
         "description": "Data sales chart 6 months from Dec 2023 to May 2024",
-        "imageURL": "https://ibb.co.com/j5ht66S",
+        "imageURL": "https://i.ibb.co.com/BPLkzz9/mydsomanager-graph-report-20240524093251-2.png",
         "userId": 2
     },
     {
         "chartName": "Sales Chart",
         "description": "Data sales chart 3 months from Mar 2024 to May 2024",
-        "imageURL": "https://ibb.co.com/nCkqy98",
+        "imageURL": "https://i.ibb.co.com/q51L8KF/mydsomanager-graph-report-20240524093251-3.png",
         "userId": 3
     }
 ]
